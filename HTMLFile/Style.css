@@ -1,0 +1,40 @@
+
+/* GlobalProperty */
+* {
+    margin: 0;
+    padding: 0;
+}
+/* BelowNavSctionDesign */
+
+.global-btn{
+    width: 90px;
+    height: 40px;
+    background-image: linear-gradient(45deg, #474627, #af4261);
+    /*background-color: black;*/
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+.belowNav {
+    background-image: url(./Images/bgImage.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 10rem 0;
+    text-align: center;
+}
+
+.belowNav p {
+    font-size: 20px;
+    color: white;
+}
+
+.belowNav h2 {
+    font-size: 45px;
+    margin: 10px 0;
+    color: white;
+}
+
+/* https://www.youtube.com/watch?v=4rlvcC_APdQ&ab_channel=MdAzizul */
